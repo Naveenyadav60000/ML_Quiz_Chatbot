@@ -1,0 +1,11 @@
+id,question,option_a,option_b,option_c,option_d,answer,difficulty,topic
+1,What is overfitting in ML?,Model performs well on training data but poorly on new data,Model underperforms on training data,Model never converges,Model runs forever,a,Easy,General
+2,Which algorithm is used for classification?,K-Means,Linear Regression,Logistic Regression,PCA,c,Easy,Supervised
+3,What is the cost function in linear regression?,Log Loss,Cross Entropy,Mean Squared Error,Precision,c,Medium,Regression
+4,What is the purpose of activation functions in neural networks?,Normalize inputs,Add randomness,Introduce non-linearity,Reduce dimensions,c,Medium,Neural Networks
+5,Which technique is used to reduce features?,Gradient Descent,One-hot Encoding,PCA,Stochastic Sampling,c,Medium,Feature Engineering
+6,What does a confusion matrix show?,Training loss over time,Accuracy of clusters,Prediction vs actual,Correlation matrix,c,Easy,Evaluation
+7,Which of these is a clustering algorithm?,Random Forest,K-Means,Naive Bayes,XGBoost,b,Medium,Unsupervised
+8,What is precision in classification metrics?,TP / (TP + FP),TP / (TP + FN),(TP + TN) / Total,FP / (FP + TN),a,Medium,Evaluation
+9,What is the vanishing gradient problem?,Weights vanish during backpropagation,Gradients become too small,Too much training data,Network fails to converge,b,Hard,Deep Learning
+10,What does dropout do during training?,Increases accuracy,Adds more neurons,Prevents overfitting,Boosts learning rate,c,Hard,Regularization
